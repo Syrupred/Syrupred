@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irina Kharitonova</h1>
 <h3 align="center">A frontend developer from Moscow</h3>
 
-- 🔭 I’m currently working on [hexlet-editor](https://github.com/Hexlet/hexlet-editor)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Syrupred](https://github.com/Syrupred)
-
-- 💬 Ask me about **React, JS**
-
 - 📫 How to reach me **kuvirinaaa@gmail.com**
-
-- 📄 Know about my experiences [https://hh.ru/resume/aa15bd0dff0b0666590039ed1f7a304c614d6c](https://hh.ru/resume/aa15bd0dff0b0666590039ed1f7a304c614d6c)
 
 ### ⚡ Technologies
 
